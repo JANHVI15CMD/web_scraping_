@@ -56,14 +56,16 @@ python projects/project1_yahoo_finance.py
 ###  Project 1: Yahoo Finance Scraper
 - **URL**: https://finance.yahoo.com/  
 - **Goal**: Extract market summaries, stock prices, news headlines.  
-- **Output**: Saved to `Project1\yahoo-stocks-data.xlsx`.
+- **Output**: [Yahoo Stocks Data](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project1/yahoo-stocks-data.xlsx)
+
 
 ---
 
 ###  Project 2: 99Acres Real Estate Scraper
 - **URL**: https://www.99acres.com/  
 - **Goal**: Scrape property listings—price, location, area.  
-- **Output**: Saved to `Project2\chennai-properties-99acres.xlsx`.
+- **Output**: [Chennai Properties Data](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project2/chennai-properties-99acres.xlsx)
+
 
 ---
 
@@ -71,8 +73,9 @@ python projects/project1_yahoo_finance.py
 
 | Sub‑project | URL                                          | Description                                         | Output                    |
 |-------------|----------------------------------------------|-----------------------------------------------------|---------------------------|
-| **3.1**     | https://quotes.toscrape.com/                | Data extraction with Selenium.             | `Project3\scraped_quotes.xlsx`         |
-| **3.2**     | https://quotes.toscrape.com/scroll          | Infinite scroll scraping with Selenium              | `Project3\scraped_quotes.xlsx`         |
+| **3.1**     | https://quotes.toscrape.com/                | Data extraction with Selenium.             |     [Scraped Quotes Data](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project3/scraped_quotes.xlsx)
+     |
+| **3.2**     | https://quotes.toscrape.com/scroll          | Infinite scroll scraping with Selenium              |    [Scraped Quotes Dat](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project3/scraped_quotes.xlsx)     |
 | **3.3**     | https://quotes.toscrape.com/login           | Login automation   |      |
 
 ---
