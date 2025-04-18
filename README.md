@@ -50,35 +50,28 @@ python projects/project1_yahoo_finance.py
 ```
 
 ---
+## Projects Included
 
-##  Projects Included
-
-###  Project 1: Yahoo Finance Scraper
-- **URL**: https://finance.yahoo.com/  
-- **Goal**: Extract market summaries, stock prices, news headlines.  
-- **Output**: [Yahoo Stocks Data](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project1/yahoo-stocks-data.xlsx)
-
+### 📈 Project 1: Yahoo Finance Scraper  
+**URL:** [https://finance.yahoo.com/](https://finance.yahoo.com/)  
+**Goal:** Extract market summaries, stock prices, news headlines.
 
 ---
 
-###  Project 2: 99Acres Real Estate Scraper
-- **URL**: https://www.99acres.com/  
-- **Goal**: Scrape property listings—price, location, area.  
-- **Output**: [Chennai Properties Data](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project2/chennai-properties-99acres.xlsx)
-
+### 🏠 Project 2: 99Acres Real Estate Scraper  
+**URL:** [https://www.99acres.com/](https://www.99acres.com/)  
+**Goal:** Scrape property listings—price, location, area.
 
 ---
 
-###  Project 3: QuotesToScrape Series
+### 📝 Project 3: QuotesToScrape Series
 
-| Sub‑project | URL                                          | Description                                         | Output                    |
-|-------------|----------------------------------------------|-----------------------------------------------------|---------------------------|
-| **3.1**     | https://quotes.toscrape.com/                | Data extraction with Selenium.             |     [Scraped Quotes Data](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project3/scraped_quotes.xlsx)
-     |
-| **3.2**     | https://quotes.toscrape.com/scroll          | Infinite scroll scraping with Selenium              |    [Scraped Quotes Dat](https://github.com/JANHVI15CMD/Web_Scraping/raw/main/projects/Project3/scraped_quotes.xlsx)     |
-| **3.3**     | https://quotes.toscrape.com/login           | Login automation   |      |
+| Sub-project | URL | Description |
+|-------------|-----|-------------|
+| 3.1 | [https://quotes.toscrape.com/](https://quotes.toscrape.com/) | Data extraction with Selenium |
+| 3.2 | [https://quotes.toscrape.com/scroll](https://quotes.toscrape.com/scroll) | Infinite scroll scraping with Selenium |
+| 3.3 | [https://quotes.toscrape.com/login](https://quotes.toscrape.com/login) | Login automation |
 
----
 
 ##  Learning Topics Covered
 
@@ -103,4 +96,3 @@ Hi! I’m **[Janhvi Tiwari]**, an aspiring data automation developer.
 
 This project is for educational purposes only.  
 Please respect each website’s `robots.txt` and Terms of Service.
-```
